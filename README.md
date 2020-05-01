@@ -3,14 +3,27 @@
 Blockchain Proof of Concept for Thui-mychain
 
 # Introduction
-Thui-mychain is a permissioned blockchain solution for Waste management
+Thui-mychain is a reward based permissioned blockchain solution for Waste management. Nanayam Cryptocurrency is issued as a reward for better waste management practices and transactions on the blockchain.
 
+## Users
+   - Waste Generator
+      
+   - Community Bin       
+      
+   - Transporter
+
+   - Recyclers
+   
+   - LandFill Manager
+   
+   - Municipality / Corporation
+  
 # Architecure
 
 To be updated
 
 # Acknowledgement
-
+Front End Development - [Alluri Harshitha](https://github.com/alluri678)
 
 # License
 
