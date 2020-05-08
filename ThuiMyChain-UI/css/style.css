@@ -1,0 +1,34 @@
+ body{        
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .header, .footer{
+        width: 100%;
+        position: fixed;        
+        background-color:MediumSeaGreen;
+        padding: 10px 0;
+        color: #fff;
+    }
+    .header{
+        top: 0;
+
+    }
+    .footer{
+        bottom: 0;
+    }
+    .container{
+        width: 80%;
+        margin: 0 auto; 
+    }
+    nav a{
+        color: #fff;
+        text-decoration: none;
+        padding: 7px 25px;
+        display: inline-block;
+    }
+
+    td,th {
+         border: 1px solid #dddddd;
+         text-align: left;
+             padding: 8px;
+         }

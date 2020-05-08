@@ -1,0 +1,90 @@
+<!-- 
+Author       : Alluri Harshitha
+Date Updated : 01.05.2020
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Waste Managment System</title>
+<style>
+
+    body{        
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .header, .footer{
+        width: 100%;
+        position: fixed;        
+        background-color:"77d8d8";
+        padding: 10px 0;
+        color: #fff;
+    }
+    .header{
+        top: 0;
+
+    }
+    .footer{
+        bottom: 0;
+    }
+    .container{
+        width: 80%;
+        margin: 0 auto; 
+    }
+    nav a{
+        color: #fff;
+        text-decoration: none;
+        padding: 7px 25px;
+        display: inline-block;
+    }
+
+    td,th {
+         border: 1px solid #dddddd;
+         text-align: left;
+             padding: 8px;
+         }
+        
+</style>
+</head>
+<body>
+  <!-- 
+    Author       : Ramaguru Radhakrishnan
+    Date Updated : 01.05.2020
+    -->
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.2.7/dist/web3.js"></script>
+    <script>
+        window.onload = function () 
+        {
+            // check to see if user has metamask addon installed on his browser. check to make sure web3 is defined
+            if (typeof web3 ==='undefined') 
+            {
+                web3 = new Web3(new Web3.providers.HttpProvider("https://ropsten.infura.io/v3/cbd9dc11b30147e9a2cc974be655ef7c"));
+          
+            }
+        }  
+    </script>
+    <div class="header">
+        <div class="container">
+            <nav>
+                <h1>Thui-mychain</h1>
+            </nav>
+        </div>
+    </div>
+    <div class="container"><br><br><br>
+      <center>
+      <h2>Next pickup</h2>
+  <label>Truck-ID:</label>
+  <br><br>
+   <label>Pick-up Date:</label>
+  <br><br>
+   <label>Pick-up Time:</label>
+ <br><br>
+   </center>
+
+</div>
+
+    <div class="footer">
+        <div class="container">Copyright &copy; namchain</div>        
+    </div>
+</body>
+</html>
