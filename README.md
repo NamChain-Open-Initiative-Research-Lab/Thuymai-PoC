@@ -1,9 +1,9 @@
-# Thui-mychain ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg) ![](https://img.shields.io/badge/Namchain-WIP-Blue.svg) ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg)
+# Thuymai ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg) ![](https://img.shields.io/badge/Namchain-WIP-Blue.svg) ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg)
 
-Blockchain Proof of Concept for Thui-mychain
+Blockchain Proof of Concept for Thuymai.
 
 # Introduction
-Thui-mychain is a reward based permissioned blockchain solution for Waste management. Nanayam Cryptocurrency is issued as a reward for better waste management practices and transactions on the blockchain.
+Thuymai is a reward based permissioned blockchain solution for Waste management.
 
 ## Users
    - Waste Generator
@@ -19,13 +19,12 @@ Thui-mychain is a reward based permissioned blockchain solution for Waste manage
    - Municipality / Corporation
   
 # Architecure
-
 To be updated
+
+# Publications
+[Blockchain based Waste Management](https://www.researchgate.net/publication/334162200_Blockchain_based_Waste_Management)
 
 # Acknowledgement
 Front End Development - [Alluri Harshitha](https://github.com/alluri678)
 
-# License
-
-[MIT](https://github.com/ramagururadhakrishnan/NamChain/blob/master/MIT)
 
