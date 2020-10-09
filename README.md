@@ -1,4 +1,6 @@
 # Thuymai ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg) ![](https://img.shields.io/badge/Namchain-WIP-Blue.svg) ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNamChain-Open-Initiative-Research-Lab%2FThuymai-PoC.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNamChain-Open-Initiative-Research-Lab%2FThuymai-PoC?ref=badge_shield)
+
 
 Blockchain Proof of Concept for Thuymai.
 
@@ -28,3 +30,7 @@ To be updated
 Front End Development - [Alluri Harshitha](https://github.com/alluri678)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNamChain-Open-Initiative-Research-Lab%2FThuymai-PoC.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNamChain-Open-Initiative-Research-Lab%2FThuymai-PoC?ref=badge_large)
